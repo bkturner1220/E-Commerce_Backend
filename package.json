@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "e-commerce_backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "A back end e-commerce site for categories, products, and tags",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,8 +14,8 @@
     "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Brian Turner",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
